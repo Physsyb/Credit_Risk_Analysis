@@ -36,7 +36,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 * Generate a confusion matrix.
  
- ![5](https://user-images.githubusercontent.com/76136277/115974761-08855800-a52d-11eb-8320-2c0aa49848b9.PNG)
+![5](https://user-images.githubusercontent.com/76136277/115974761-08855800-a52d-11eb-8320-2c0aa49848b9.PNG)
 
 * Print out the imbalanced classification report.
 ![7](https://user-images.githubusercontent.com/76136277/115974765-0c18df00-a52d-11eb-8aa5-4aa19ab3d0de.PNG)
@@ -53,7 +53,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 * Generate a confusion matrix.
  
- ![cc4](https://user-images.githubusercontent.com/76136277/115975247-00c7b280-a531-11eb-9b77-bc1d9cc8ca94.PNG)
+![cc4](https://user-images.githubusercontent.com/76136277/115975247-00c7b280-a531-11eb-9b77-bc1d9cc8ca94.PNG)
 
 * Print out the imbalanced classification report.
 ![cc5](https://user-images.githubusercontent.com/76136277/115975241-f6a5b400-a530-11eb-9a05-e4cc0f519d4e.PNG)
