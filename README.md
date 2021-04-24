@@ -20,7 +20,7 @@ Using the information we’ve provided in the starter code, create your training
 * Create the training variables by converting the string values into numerical ones using the `get_dummies()` method.
 * Create the target variables.
  
- ![1](https://user-images.githubusercontent.com/76136277/115974711-885ef280-a52c-11eb-86c4-08c5bd61b470.PNG)
+   ![1](https://user-images.githubusercontent.com/76136277/115974711-885ef280-a52c-11eb-86c4-08c5bd61b470.PNG)
 
 * Check the balance of the target variables.
 ![2](https://user-images.githubusercontent.com/76136277/115974718-99a7ff00-a52c-11eb-8a6f-3d2770bcf7ed.PNG)
@@ -36,7 +36,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 * Generate a confusion matrix.
  
-![5](https://user-images.githubusercontent.com/76136277/115974761-08855800-a52d-11eb-8320-2c0aa49848b9.PNG)
+  ![5](https://user-images.githubusercontent.com/76136277/115974761-08855800-a52d-11eb-8320-2c0aa49848b9.PNG)
 
 * Print out the imbalanced classification report.
 ![7](https://user-images.githubusercontent.com/76136277/115974765-0c18df00-a52d-11eb-8aa5-4aa19ab3d0de.PNG)
@@ -53,7 +53,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 * Generate a confusion matrix.
  
-![cc4](https://user-images.githubusercontent.com/76136277/115975247-00c7b280-a531-11eb-9b77-bc1d9cc8ca94.PNG)
+  ![cc4](https://user-images.githubusercontent.com/76136277/115975247-00c7b280-a531-11eb-9b77-bc1d9cc8ca94.PNG)
 
 * Print out the imbalanced classification report.
 ![cc5](https://user-images.githubusercontent.com/76136277/115975241-f6a5b400-a530-11eb-9a05-e4cc0f519d4e.PNG)
@@ -74,7 +74,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 4. Generate a confusion matrix
 
-![11](https://user-images.githubusercontent.com/76136277/115974942-8a29b580-a52e-11eb-95f6-5b4a9e280dc0.PNG)
+   ![11](https://user-images.githubusercontent.com/76136277/115974942-8a29b580-a52e-11eb-95f6-5b4a9e280dc0.PNG)
 
 5. Print out the imbalanced classification report.
 ![12](https://user-images.githubusercontent.com/76136277/115974949-944bb400-a52e-11eb-890b-8d769c18fa35.PNG)
@@ -91,7 +91,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 4. Generate a confusion matrix
 
-![SM4](https://user-images.githubusercontent.com/76136277/115975306-9c592300-a531-11eb-8743-998297f97aa7.PNG)
+   ![SM4](https://user-images.githubusercontent.com/76136277/115975306-9c592300-a531-11eb-8743-998297f97aa7.PNG)
 
 5. Print out the imbalanced classification report.
 ![SM5](https://user-images.githubusercontent.com/76136277/115975308-a3803100-a531-11eb-86d8-8f2597f8d044.PNG)
@@ -111,7 +111,8 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
     ![es3](https://user-images.githubusercontent.com/76136277/115975476-0d4d0a80-a533-11eb-8940-724abcf7b473.PNG)
 
     * A confusion matrix has been generated 
-    ![es4](https://user-images.githubusercontent.com/76136277/115975478-15a54580-a533-11eb-90e0-0174d6c34a5e.PNG)
+   
+      ![es4](https://user-images.githubusercontent.com/76136277/115975478-15a54580-a533-11eb-90e0-0174d6c34a5e.PNG)
 
     * An imbalanced classification report has been generated 
     ![es5](https://user-images.githubusercontent.com/76136277/115975482-1e961700-a533-11eb-884c-75b0d6736f0b.PNG)
@@ -121,14 +122,14 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
 
 3. The `EasyEnsembleClassifier` algorithm does the following:
     * An accuracy score of the model is calculated 
-   ![es7](https://user-images.githubusercontent.com/76136277/115975501-50a77900-a533-11eb-8d45-8308c64f04fb.PNG)
+    ![es7](https://user-images.githubusercontent.com/76136277/115975501-50a77900-a533-11eb-8d45-8308c64f04fb.PNG)
 
     * A confusion matrix has been generated 
     
-    ![es8](https://user-images.githubusercontent.com/76136277/115975502-5735f080-a533-11eb-9318-700059fce1ae.PNG)
+      ![es8](https://user-images.githubusercontent.com/76136277/115975502-5735f080-a533-11eb-9318-700059fce1ae.PNG)
 
     * An imbalanced classification report has been generated 
-   ![es9](https://user-images.githubusercontent.com/76136277/115975503-5d2bd180-a533-11eb-9047-8955758fdd58.PNG)
+    ![es9](https://user-images.githubusercontent.com/76136277/115975503-5d2bd180-a533-11eb-9047-8955758fdd58.PNG)
 
 # Summary
 For all models, `EasyEnsembleClassifier` is the most effective, this is because it provides the highest score for all risk loans. In summary,  utilizing `EasyEnsembleClassifier` will perform a High-Risk loan precision as a great value for the overall analysis.
