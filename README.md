@@ -104,6 +104,7 @@ Next, begin resampling the training data. First, use the oversampling `RandomOve
      ![es1](https://user-images.githubusercontent.com/76136277/115975386-68cac880-a532-11eb-99be-e306db94f966.PNG)
 
     * Check the balance of the target variables.
+    
     ![es2](https://user-images.githubusercontent.com/76136277/115975391-72ecc700-a532-11eb-89e8-3bf5803c95ec.PNG)
 
 2. The `BalancedRandomForestClassifier` algorithm does the following:
